@@ -38,7 +38,7 @@ public class SubSetSum{
                 }
                 else
                 {
-                    arr[i][j] = Math.max(arr[i-1][j],arr[i][j - (w[i-1])]);
+                    arr[i][j] = Math.max(arr[i-1][j],arr[i-1][j - (w[i-1])]);
                 }
             }
         }
