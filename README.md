@@ -11,4 +11,6 @@ Contains code of different DP problems.
 
 2. Equal Sum Partition : [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/Equal_sun_Partition.java)
 
-3. Candies by greedy approach : [Problem Statement](https://www.hackerrank.com/challenges/candies/problem)  , Code  :   [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/candies.java). 
+3. Candies by greedy approach :  [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/candies.java). 
+
+4. [count subset sum](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/countsubset.txt)  : [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/Count_Subset_sum.java)
