@@ -1,0 +1,21 @@
+Problem Statement :
+Given: An array with elements and a target sum we are to achieve
+Conditions:
+
+We are allowed to either add or subtract elements with one another
+Can use + or – with the existing sum to achieve our target.
+
+Output : 
+The number of ways in which we can reach the target
+
+example :
+arr[1,1,2,3] targetsum = 1
+Solution:
+1. (+1-1-2+3)  = 1
+2. (-1+1-2+3)  = 1
+3. (+1+1+2-3)  = 1
+
+so Output will be 3.
+The number of ways in which we can reach the target
+
+This problem can be redused into exectly similar problem No. 05 "Count the number of subset with a given difference".
