@@ -6,8 +6,6 @@ Contains code of different DP problems.
 
 * Python implementation on 0/1 Knapsack : [Code](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/pysolution.py)
 
-* Candies by greedy approach :  [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/candies.java). 
-
 
 #### Problem Statement Under 0/1 Knapsack
 
