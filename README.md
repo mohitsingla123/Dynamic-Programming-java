@@ -7,7 +7,7 @@ Contains code of different DP problems.
 * Python implementation on 0/1 Knapsack : [Code](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/pysolution.py)
 
 
-#### Problem Statement Under 0/1 Knapsack
+#### Problem Statement Under 0/1 Knapsack:
 
 1. SubSet Sum Problem : [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/SubSet_Sum.java)
 
@@ -20,3 +20,9 @@ Contains code of different DP problems.
 5. [Count the number of subset with a given difference](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/Count%20the%20number%20of%20subset%20with%20a%20given%20difference.txt)   :   [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/TotalSubsetDifference.java) 
 
 6. [Target Sum](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/TargetSum.txt)   :    [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/TotalSubsetDifference.java) 
+
+
+
+#### Problem Statement Under Unbounded Knapsack:
+
+1. [Cutting the Rod](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/CuttingArod.txt)    :   [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Unbounded%20Knapsack/Cutting_A_Rod.java)
