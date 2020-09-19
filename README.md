@@ -26,3 +26,7 @@ Contains code of different DP problems.
 #### Problem Statement Under Unbounded Knapsack:
 
 1. [Cutting the Rod](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/CuttingArod.txt)    :   [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Unbounded%20Knapsack/Cutting_A_Rod.java)
+
+2. [Coin Change : Maximum number of ways](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/CoinChangeMaxNumber.txt)   :   [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Unbounded%20Knapsack/CoinChangeMaxNumber.java)
+
+3. [Coin Change : Minumum Number of Coin](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/coinChangeMinCoin.txt)   :   [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Unbounded%20Knapsack/CoinChangeMinNumber.java)
