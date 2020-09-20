@@ -6,32 +6,33 @@ Contains code of different DP problems.
 
 * Python implementation on 0/1 Knapsack : [Code](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/pysolution.py)
 
-
 #### Problem Statement Under 0/1 Knapsack:
 
-1. [SubSet Sum Problem](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/SubSetSum.txt) : [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/SubSet_Sum.java)
-
-2. [Equal Sum Partition](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/Equal%20Sum%20Partition.txt) : [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/Equal_sun_Partition.java)
-
-3. [Count Subset Sum](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/countsubset.txt)  : [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/Count_Subset_sum.java)
-
-4. [Minimum Subset Sum Problem](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/Mini_Subset_Sum_Difference.txt)  :  [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/Minimum_Subset_Sum_Difference.java)
-
-5. [Count the number of subset with a given difference](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/Count%20the%20number%20of%20subset%20with%20a%20given%20difference.txt)   :   [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/TotalSubsetDifference.java) 
-
-6. [Target Sum](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/TargetSum.txt)   :    [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/TotalSubsetDifference.java) 
+| Problem Statement                                            | Solution                                                     |
+| :----------------------------------------------------------- | :----------------------------------------------------------- |
+| 1. [SubSet Sum Problem](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/SubSetSum.txt) | [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/SubSet_Sum.java) |
+| 2.  [Equal Sum Partition](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/Equal%20Sum%20Partition.txt) | [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/Equal_sun_Partition.java) |
+| 3.  [Count Subset Sum](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/countsubset.txt) | [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/Count_Subset_sum.java) |
+| 4.  [Minimum Subset Sum Problem](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/Mini_Subset_Sum_Difference.txt) | [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/Minimum_Subset_Sum_Difference.java) |
+| 5. [Count the number of subset with a given difference](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/Count%20the%20number%20of%20subset%20with%20a%20given%20difference.txt) | [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/TotalSubsetDifference.java) |
+| 6.  [Target Sum](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/TargetSum.txt) | [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/TotalSubsetDifference.java) |
 
 
 
 #### Problem Statement Under Unbounded Knapsack:
 
-1. [Cutting the Rod](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/CuttingArod.txt)    :   [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Unbounded%20Knapsack/Cutting_A_Rod.java)
+| Problem Statement                                            | Solution                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1. [Cutting the Rod](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/CuttingArod.txt) | [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Unbounded%20Knapsack/Cutting_A_Rod.java) |
+| 2. [Coin Change : Maximum number of ways](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/CoinChangeMaxNumber.txt) | [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Unbounded%20Knapsack/CoinChangeMaxNumber.java) |
+| 3. [Coin Change : Minumum Number of Coin](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/coinChangeMinCoin.txt) | [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Unbounded%20Knapsack/CoinChangeMinNumber.java) |
 
-2. [Coin Change : Maximum number of ways](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/CoinChangeMaxNumber.txt)   :   [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Unbounded%20Knapsack/CoinChangeMaxNumber.java)
-
-3. [Coin Change : Minumum Number of Coin](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/coinChangeMinCoin.txt)   :   [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Unbounded%20Knapsack/CoinChangeMinNumber.java)
 
 
-#### Longest Common Subsequence
+#### Longest Common Subsequence:
 
-1. [Longes Common SubSequence Using Recursive](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/LongestCommonSubsequence.txt)   :   [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/tree/master/Longest%20Common%20Subsequence)
+| Problem Statement                                            | Solution                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1. [Longes Common SubSequence Using Recursive](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/LongestCommonSubsequence.txt) | [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/tree/master/Longest%20Common%20Subsequence) |
+|                                                              |                                                              |
+|                                                              |                                                              |
