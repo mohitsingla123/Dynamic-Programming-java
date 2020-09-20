@@ -9,9 +9,9 @@ Contains code of different DP problems.
 
 #### Problem Statement Under 0/1 Knapsack:
 
-1. SubSet Sum Problem : [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/SubSet_Sum.java)
+1. [SubSet Sum Problem](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/SubSetSum.txt) : [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/SubSet_Sum.java)
 
-2. Equal Sum Partition : [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/Equal_sun_Partition.java)
+2. [Equal Sum Partition](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/Equal%20Sum%20Partition.txt) : [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/Equal_sun_Partition.java)
 
 3. [Count Subset Sum](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/countsubset.txt)  : [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/Count_Subset_sum.java)
 
