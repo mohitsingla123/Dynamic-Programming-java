@@ -1,11 +1,10 @@
 // Calculate the lenght of longest Common substring
 //Solution:
-
 public class LongestCommonSubstring{
 
      public static void main(String []args){
-        String a = "abcde";
-        String b = "abfce";
+        String a = "abcdxyz";
+        String b = "xyzabcd";
         int i,j;
         int lena = a.length();
         int lenb = b.length();
@@ -36,16 +35,26 @@ public class LongestCommonSubstring{
         {
             for(j = 0;j<=lenb; j++)
             {
-                 if(i==j)
-                 {
+
                      if(arr[i][j]>max)
                      {
                          max = arr[i][j];
                      }
-                 }
             }
         }
         
+        // to print the whole table:
+        /*
+        for(i = 0; i<= lena; i++ )
+        {
+            for(j = 0;j<=lenb; j++)
+            {
+                
+                System.out.print(arr[i][j]+" ");
+            }
+            System.out.println("");
+        }
+        */
         System.out.println("Longest Common Substring : "+max+" length");
     }
 }
