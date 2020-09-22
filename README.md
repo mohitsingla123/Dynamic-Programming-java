@@ -34,5 +34,5 @@ Contains code of different DP problems.
 | Problem Statement                                            | Solution                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1. [Longes Common SubSequence Using Recursive](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/LongestCommonSubsequence.txt) | [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/tree/master/Longest%20Common%20Subsequence) |
-|                                                              |                                                              |
-|                                                              |                                                              |
+| 2.   |[Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Longest%20Common%20Subsequence/LCS_Top_Down.java)|
+| 3.  [Longes Common SubSequence Using Top-Down](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/LongestCommonSubsequence.txt|                                                              |
