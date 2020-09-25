@@ -1,0 +1,23 @@
+Prolem Statement Link: https://www.geeksforgeeks.org/minimum-number-deletions-insertions-transform-one-string-another/
+
+Minimum number of deletions and insertions to transform one string into another
+
+Given two strings ‘str1’ and ‘str2’ of size m and n respectively. The task is to remove/delete and insert minimum number of characters from
+str1 so as to transform it into str2. It could be possible that the same character needs to be removed/deleted from one point of str1 and inserted to some another point.
+
+Examples:
+
+Input : str1 = "heap", str2 = "pea" 
+Output : Minimum Deletion = 2 and
+         Minimum Insertion = 1
+p and h deleted from heap
+Then, p is inserted at the beginning
+One thing to note, though p was required yet
+it was removed/deleted first from its position and
+then it is inserted to some other position.
+Thus, p contributes one to the deletion_count
+and one to the insertion_count.
+
+Input : str1 = "geeksforgeeks", str2 = "geeks"
+Output : Minimum Deletion = 8
+         Minimum Insertion = 0   
