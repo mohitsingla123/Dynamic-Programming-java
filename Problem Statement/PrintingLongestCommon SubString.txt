@@ -1,0 +1,14 @@
+Print the longest common substring
+
+Given two strings ‘X’ and ‘Y’, print the length of the longest common substring. If two or more substrings have the same value 
+for longest common substring, then print any one of them.
+
+Examples:
+
+Input :  X = "GeeksforGeeks", 
+         Y = "GeeksQuiz"
+Output : Geeks
+
+Input : X = "zxabcdezy", 
+        Y = "yzabcdezx"
+Output : abcdez
