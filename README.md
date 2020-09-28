@@ -43,11 +43,9 @@ Contains code of different DP problems.
 
 
 
-
-https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/MCMrecursice.txt
 #### Matrix Chain Multiplication:
 
 | Problem Statement                                            | Solution                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1. [Matrix Chain Multiplication Recursive](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/MCMrecursice.txt
-) | [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Matrix%20Chain%20Multiplication%20(MCM)/Matrix_Chain_Multiplication_Recursive.java) |
+| 1. [Matrix Chain Multiplication Recursive](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/MCMrecursice.txt) | [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Matrix%20Chain%20Multiplication%20(MCM)/Matrix_Chain_Multiplication_Recursive.java) |
+| | |
