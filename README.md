@@ -40,3 +40,14 @@ Contains code of different DP problems.
 | 5. [Printing Longest Common SubString](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/PrintingLongestCommon%20SubString.txt) | [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Longest%20Common%20Subsequence/Printing_longest_common_substring.java)|
 | 6. [Minimum Number of Insertion and Deletion to Convert two String](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/minumum%20Insertion%20and%20Deletion.txt)| [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Longest%20Common%20Subsequence/Deletions_and_insertions.java)|
 | 7. [Longest Palindromic Subsequence](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/Longest%20Palindromic%20Subsequence.txt) | [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Longest%20Common%20Subsequence/palindorimicSubsSequance.java) |
+
+
+
+
+https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/MCMrecursice.txt
+#### Matrix Chain Multiplication:
+
+| Problem Statement                                            | Solution                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1. [Matrix Chain Multiplication Recursive](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Problem%20Statement/MCMrecursice.txt
+) | [Java Solution](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/Matrix%20Chain%20Multiplication%20(MCM)/Matrix_Chain_Multiplication_Recursive.java) |
