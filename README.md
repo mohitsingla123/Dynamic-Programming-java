@@ -1,5 +1,6 @@
 # Dynamic-Programming-java
-Contains code of different DP problems.
+
+Code of different DP problems.
 
 
 ### 0/1 knapsack 
