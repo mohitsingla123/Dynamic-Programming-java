@@ -5,6 +5,7 @@ Code of different DP problems.
 
 ### 0/1 knapsack 
 
+
 * Python implementation on 0/1 Knapsack : [Code](https://github.com/mohitsingla123/Dynamic-Programming-java/blob/master/0-1%20knapsack/pysolution.py)
 
 #### Problem Statement Under 0/1 Knapsack:
